@@ -18,7 +18,8 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 ## Deployed Application
 
-("Heroku Link")
+("https://evening-brook-93269.herokuapp.com/
+")
 
 * Offline image:
 
