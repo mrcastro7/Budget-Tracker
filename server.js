@@ -15,7 +15,9 @@ app.use(express.json());
 
 app.use(express.static("public"));
 
-mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/budget", {
+mongoose.connect(process.env.MONGODB_URI || "mongodb://heroku_fd94r6w3:poqvqba7086ihsumn7jlapar13@ds159235.mlab.com:59235/heroku_fd94r6w3", {
+  // mongodb://heroku_fd94r6w3:poqvqba7086ihsumn7jlapar13@ds159235.mlab.com:59235/heroku_fd94r6w3
+  // mongodb://localhost/budget
   useNewUrlParser: true,
   useFindAndModify: false
 });
