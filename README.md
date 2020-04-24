@@ -16,10 +16,6 @@ When brought back online:
 
 Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
 
-## Deployed Application
-
-("https://calm-oasis-32152.herokuapp.com/
-")
 
 * Offline image:
 
